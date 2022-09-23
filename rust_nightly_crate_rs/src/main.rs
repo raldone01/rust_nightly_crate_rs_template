@@ -1,5 +1,5 @@
-use rust_nightly_crate_rs::hello_world;
+use rust_nightly_crate_rs::gen_hello_world;
 
 fn main() {
-  println!("{}", hello_world());
+  println!("{}", gen_hello_world());
 }
