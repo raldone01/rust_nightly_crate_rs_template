@@ -1,6 +1,6 @@
 # Based on https://github.com/taiki-e/parse-changelog/blob/777a82184bcbe0ed975e63a491f5fbf80b29cb1b/.github/workflows/release.yml
 
-name: Rust maybe Release
+name: Rust Github Release
 
 permissions:
   # TODO: once `releases: write` is supported, use it instead.

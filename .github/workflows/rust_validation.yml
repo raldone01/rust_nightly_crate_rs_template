@@ -1,6 +1,6 @@
 # Based on https://github.com/taiki-e/parse-changelog/blob/777a82184bcbe0ed975e63a491f5fbf80b29cb1b/.github/workflows/ci.yml
 
-name: Rust-CI
+name: Rust CI
 
 permissions:
   contents: read

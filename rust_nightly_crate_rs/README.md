@@ -18,12 +18,12 @@ This crate requires a nightly compiler.
   - [ ] `README.md` symlink
   - [ ] `CHANGELOG.md` symlink
   - [ ] `<crate_name>/Cargo.toml` update keys
-* [ ] Update `README.md`
+* [ ] Update `README.md` (Badges and text)
 * [ ] Copy `README.md` to `<create_name>/src/lib.rs`
 * [ ] Search for `TODO`, `raldone01`, `rust_nightly_crate_rs` and `rust_nightly_crate_rs_template`
 
    (<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd> in vscode)
-* [ ] Tag releases with `v<d>.<d>.<d>`
+* [ ] Tag releases with `v<d>.<d>.<d>` and push the tag.
 * [ ] Run `cargo publish` to publish to `crates.io`.
 * [ ] Remove this section
 
