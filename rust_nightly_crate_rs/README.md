@@ -16,7 +16,6 @@ This crate requires a nightly compiler.
 
 * [ ] Update crate name
   - [ ] `README.md` symlink
-  - [ ] `CHANGELOG.md` symlink
   - [ ] `<crate_name>/Cargo.toml` update keys
 * [ ] Update `README.md` (Badges and text)
 * [ ] Copy `README.md` to `<create_name>/src/lib.rs`
