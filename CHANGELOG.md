@@ -22,6 +22,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Leaked `hello_world` API token.
 
 ## [0.0.1] - 2022-09-21
+
+Initial release.
+
 ### Added
 - `hello_world` function.
 
