@@ -20,7 +20,6 @@ This crate requires a nightly compiler.
 * [ ] Search for `TODO`, `raldone01`, `rust_nightly_crate_rs` and `rust_nightly_crate_rs_template`
 
    (<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd> in vscode)
-* [ ] Setup `github.token` in the secrets tab
 * [ ] Tag releases with `v<d>.<d>.<d>`
 * [ ] Run `cargo publish` to publish to `crates.io`.
 * [ ] Remove this section
