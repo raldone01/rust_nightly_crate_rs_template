@@ -1,0 +1,2 @@
+[workspace]
+members = ["rust_nightly_crate_rs"]
