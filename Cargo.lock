@@ -4,4 +4,4 @@ version = 3
 
 [[package]]
 name = "rust_nightly_crate_rs"
-version = "0.0.2"
+version = "0.0.3"
