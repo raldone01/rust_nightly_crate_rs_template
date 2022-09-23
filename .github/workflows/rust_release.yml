@@ -19,7 +19,7 @@ jobs:
   call_rust_validation:
     uses: ./.github/workflows/rust_validation.yml
     secrets: inherit
-  maybe-release:
+  create-release:
     needs: call_rust_validation
     if: github.repository_owner == 'raldone01'
     runs-on: ubuntu-latest
