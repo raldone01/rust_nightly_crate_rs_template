@@ -1,7 +1,7 @@
 # rust_nightly_crate_rs
 
-[![Daily-Nightly](https://github.com/raldone01/rust_nightly_crate_rs_template/actions/workflows/rust.yml/badge.svg)](https://github.com/raldone01/rust_nightly_crate_rs_template/actions/workflows/daily_nightly.yml)
-[![Rust-CI](https://github.com/raldone01/rust_nightly_crate_rs_template/actions/workflows/rust.yml/badge.svg)](https://github.com/raldone01/rust_nightly_crate_rs_template/actions/workflows/rust_release.yml)
+[![Daily-Nightly](https://github.com/raldone01/rust_nightly_crate_rs_template/actions/workflows/rust_daily_nightly_check.yml/badge.svg)](https://github.com/raldone01/rust_nightly_crate_rs_template/actions/workflows/rust_daily_nightly_check.yml)
+[![Rust-Main-CI](https://github.com/raldone01/rust_nightly_crate_rs_template/actions/workflows/rust_main.yml/badge.svg)](https://github.com/raldone01/rust_nightly_crate_rs_template/actions/workflows/rust_main.yml)
 [![docs.rs](https://docs.rs/rust_nightly_crate_rs_template/badge.svg)](https://docs.rs/rust_nightly_crate_rs_template)
 [![crates.io](https://img.shields.io/crates/v/rust_nightly_crate_rs_template.svg)](https://crates.io/crates/rust_nightly_crate_rs_template)
 [![rustc](https://img.shields.io/badge/rustc-nightly-lightgrey)](https://doc.rust-lang.org/nightly/std/)
