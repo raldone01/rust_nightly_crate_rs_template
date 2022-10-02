@@ -30,10 +30,10 @@ TODO: Crate description here
 ## Example
 
 ```rust
-use rust_nightly_crate_rs::hello_world;
+use rust_nightly_crate_rs::gen_hello_world;
 
 // TODO: Update this example
-println!("{}", hello_world());
+println!("{}", gen_hello_world());
 ```
 
 ## Authors
